@@ -3,7 +3,7 @@ On The QT:
 
 
 
-— Qterminal + Fish
+— Qterminal[]() + Fish[]()
 
 — PCManFm-QT
 
