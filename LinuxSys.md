@@ -1,3 +1,14 @@
+
+
+
+
+
+
+
+Linux Terminal Server Projec ([LTSP](https://ltsp.org/docs/)) — Пакета для организации работы тонких терминальный Cерверов Linux клиента.
+
+
+
 On The QT:
 — Timeshift 
 
