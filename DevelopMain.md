@@ -27,5 +27,10 @@
  — Brackets
 
 ## Разработка БД:
+
  — Azure Data Studio
+ 
  — Dbeaver
+ 
+[Kotatogram](https://kotatogram.github.io/ru/)  (форк Telegram)
+ 
