@@ -6,18 +6,18 @@ Debian  —  довольно простой и легкий дистрибут�
 []()
 []()
 Офис:
- — LibreOffice
+ - LibreOffice
  
- — FreeOffice
+ - FreeOffice
  
- — OnlyOffice
+ - OnlyOffice
  
- — [Microsoft Office — Electron](https://github.com/agam778/MS-Office-Electron) 
+ - [Microsoft Office — Electron](https://github.com/agam778/MS-Office-Electron) 
  
- — Fbreader
+ - Fbreader
  
- — Osmo — календарь, контакты, задачи, заметки и адресную книги.
+ - Osmo — календарь, контакты, задачи, заметки и адресную книги.
  
  - CherryTree — [Менеджер заметок](https://www.giuspen.com/cherrytree/)
 
- — PDF Studio Viewer
+ - PDF Studio Viewer
