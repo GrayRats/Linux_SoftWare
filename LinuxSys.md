@@ -9,7 +9,11 @@ On The QT:
 
 Удаленное администрирование:
  — Anydesk
+ 
  — Ассистент
+ 
  — TeamViewer
+ 
  — Remmina
+ 
  — Putty
