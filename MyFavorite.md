@@ -1,7 +1,9 @@
 
 Ctlos или ArcoLinux = Arch Distr 
 может EndeavourOS ,а потом Garuda, Artix(s6) - PC.
+
 openSUSE(Leap), Artix(runit), Clear Linux - на ноут.
+
 HashOS, Fedora(Rawhide), Dekuve - на внешнем носителе.
 
 Debian  —  довольно простой и легкий дистрибутив, даже слишком простой. Пару движений в терминале и система готова. Все-таки Net-Install ,особенно с приходом Debian 11 (bullseye) 
