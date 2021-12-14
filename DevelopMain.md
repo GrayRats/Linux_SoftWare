@@ -20,11 +20,18 @@
 
 ## Среда разработки:
  — Visual Studio Code — непревзойденный редактор от Микрософт.
+ 
  — Brackets — кто в "танке".
+ 
  — Geany
- — SublimeText
- — Intellij Idea CE
- — Brackets
+ 
+ - SublimeText
+ 
+ - Intellij Idea CE
+ 
+ - Brackets
+ 
+ - [Doom Emacs](https://github.com/hlissner/doom-emacs) 
 
 ## Разработка БД:
 
