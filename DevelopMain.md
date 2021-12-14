@@ -1,29 +1,29 @@
  ## Компиляторы и языки программирования:
  
- — С++ и С#
- — Python
- — Kotlin
- — Java
- — Js
- — Nasm
- — Go
- — Fortran77
- — PHP
- — Perl
- — Basic
+ - С++ и С#
+ - Python
+ - Kotlin
+ - Java
+ - Js
+ - Nasm
+ - Go
+ - Fortran77
+ - PHP
+ - Perl
+ - Basic
 
 ## Компиляторы и интерпретаторы:
- — gcc
- — clang
- — fortran
- — прочие
+ - gcc
+ - clang
+ - fortran
+ - прочие
 
 ## Среда разработки:
- — Visual Studio Code — непревзойденный редактор от Микрософт.
+- Visual Studio Code — непревзойденный редактор от Микрософт.
  
- — Brackets — кто в "танке".
+ - Brackets — кто в "танке".
  
- — Geany
+ - Geany
  
  - SublimeText
  
@@ -35,9 +35,9 @@
 
 ## Разработка БД:
 
- — Azure Data Studio
+ - Azure Data Studio
  
- — Dbeaver
+ - Dbeaver
  
 [Kotatogram](https://kotatogram.github.io/ru/)  (форк Telegram)
  
